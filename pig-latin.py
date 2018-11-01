@@ -1,4 +1,4 @@
-pyg = 'Adam Saulnier'
+pyg = 'ay'
 
 original = input('Enter a word:') #WORD
 
