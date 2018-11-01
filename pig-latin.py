@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 pyg = 'ay'
-=======
-pyg = 'fourwinds'
->>>>>>> Demo
 
 original = input('Enter a word:') #WORD
 
@@ -13,8 +9,4 @@ if len(original) > 0 and original.isalpha():  # adding alpha char
   new_word = new_word[1:len(new_word)] #ordway
   print (new_word)
 else:
-<<<<<<< HEAD
     print ('input can only contain alpha letters')
-=======
-    print ('needs to be alpha characters')
->>>>>>> Demo
